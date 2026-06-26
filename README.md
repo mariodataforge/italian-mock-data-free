@@ -37,7 +37,7 @@ export default function UserList() {
     </ul>
   );
 }
-
+```javascript
 
 Database Seeding (PostgreSQL / MySQL)
 Run the sample.sql file directly in your database client to instantly populate your users table and test your queries.
