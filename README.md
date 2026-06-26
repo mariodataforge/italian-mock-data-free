@@ -37,3 +37,8 @@ export default function UserList() {
     </ul>
   );
 }
+
+
+Database Seeding (PostgreSQL / MySQL)
+Run the sample.sql file directly in your database client to instantly populate your users table and test your queries.
+Built by MarioDataForge — Stop hardcoding. Start shipping.
